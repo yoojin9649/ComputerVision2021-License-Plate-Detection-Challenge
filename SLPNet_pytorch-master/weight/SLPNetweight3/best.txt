@@ -1,0 +1,1 @@
+Best epoch is 4, with Val-Accuracy= 0.0000

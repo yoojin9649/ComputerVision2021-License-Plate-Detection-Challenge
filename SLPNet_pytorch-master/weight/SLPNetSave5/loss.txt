@@ -1,0 +1,1 @@
+Epoch		Step		TotalStep		Det-loss		Reg-loss		TrainMode

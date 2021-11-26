@@ -1,0 +1,1 @@
+Namespace(batch_size=1, cuda=True, mode=0, num_workers=4, pretrained='./weight/SLPNetweight4/model_best.pth', savedir='ssnetv2_total_2_11', steps_interval=50)
